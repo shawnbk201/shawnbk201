@@ -8,7 +8,7 @@ Hi 👋 My name is Shawn
 Software Developer
 ------------------
 
-I've been learning to code for several years, after switching careers. I started with HTML and JavaScript. I enjoy working with Node.js, React.js, JavaScript, Python and more.
+I've been learning to code for several years, after switching careers. I started with HTML and JavaScript. I enjoy working with Node, React, JavaScript, Python and more.
 
 * 🌍  I'm based in The Lands Between
 * ✉️  You can contact me at [shawnbk201@gmail.com](mailto:shawnbk201@gmail.com)
